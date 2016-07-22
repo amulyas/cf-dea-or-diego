@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-	//remove the following line to not have your deployment tracker
 	router := gin.Default()
 
 	cfInstanceGUID := os.Getenv("CF_INSTANCE_GUID")
