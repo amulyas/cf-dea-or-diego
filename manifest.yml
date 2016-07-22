@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  name: dea-or-diego
+  disk_quota: 1024M
+  command: dea-or-diego
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
