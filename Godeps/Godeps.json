@@ -3,10 +3,6 @@
 	"GoVersion": "go1.5.3",
 	"Deps": [
 		{
-			"ImportPath": "github.com/IBM-Bluemix/cf_deployment_tracker_client_go",
-			"Rev": "580644454e98381d96dd747b4c1370d1d21a9950"
-		},
-		{
 			"ImportPath": "github.com/gin-gonic/gin",
 			"Comment": "v1.0rc1-148-g52fcc5d",
 			"Rev": "52fcc5dbf6e94df33ad313858fb94b713e9d1b4a"
